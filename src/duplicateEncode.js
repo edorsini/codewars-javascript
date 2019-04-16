@@ -26,4 +26,3 @@ module.exports = {
 }
 
 
-console.log(duplicateEncode("hello"));
