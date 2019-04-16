@@ -18,7 +18,7 @@ function duplicateEncode(word){
         }
     }
 
-    //return result;
+    return result;
 }
 
 module.exports = {
